@@ -1,0 +1,11 @@
+body {
+	background-image: url(backgroundimage3.jpg);
+	background-size: cover;
+}
+h2 {
+	color: blue;
+	cursor: pointer;
+}
+li {
+	list-style: none;
+}
